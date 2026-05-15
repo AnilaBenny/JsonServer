@@ -1,0 +1,89 @@
+{
+  "agencies": [
+    {
+      "id": 1,
+      "externalAgencyId": "EXT-AGN-001",
+      "agencyCode": "AGN001",
+      "agencyName": "Sunrise Insurance Agency",
+      "email": "reward@sunriseinsurance.com",
+      "phone": "+1-800-555-0101",
+      "status": "active",
+      "sourceSystem": "PolicyCenter",
+      "metadata": {
+        "region": "North America",
+        "tier": "Gold",
+        "syncVersion": "v1.2"
+      },
+      "createdAt": "2024-01-15T08:00:00Z",
+      "updatedAt": "2024-06-10T12:30:00Z"
+    },
+    {
+      "id": 2,
+      "externalAgencyId": "EXT-AGN-002",
+      "agencyCode": "AGN002",
+      "agencyName": "BrightShield Advisors",
+      "email": "reward@brightshieldadvisors.com",
+      "phone": "+1-800-555-0202",
+      "status": "active",
+      "sourceSystem": "PolicyCenter",
+      "metadata": {
+        "region": "South America",
+        "tier": "Silver",
+        "syncVersion": "v1.1"
+      },
+      "createdAt": "2024-02-20T09:15:00Z",
+      "updatedAt": "2024-06-11T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "externalAgencyId": "EXT-AGN-003",
+      "agencyCode": "AGN003",
+      "agencyName": "TrustLine Insurance Services",
+      "email": "reward@trustlineinsurance.com",
+      "phone": "+1-800-555-0303",
+      "status": "active",
+      "sourceSystem": "PolicyCenter",
+      "metadata": {
+        "region": "Europe",
+        "tier": "Bronze",
+        "syncVersion": "v1.0"
+      },
+      "createdAt": "2024-03-05T07:45:00Z",
+      "updatedAt": "2024-06-12T08:20:00Z"
+    },
+    {
+      "id": 4,
+      "externalAgencyId": "EXT-AGN-004",
+      "agencyCode": "AGN004",
+      "agencyName": "PeakCover Solutions",
+      "email": "reward@peakcoversolutions.com",
+      "phone": "+1-800-555-0404",
+      "status": "active",
+      "sourceSystem": "PolicyCenter",
+      "metadata": {
+        "region": "Asia Pacific",
+        "tier": "Gold",
+        "syncVersion": "v1.3"
+      },
+      "createdAt": "2024-04-10T10:00:00Z",
+      "updatedAt": "2024-06-13T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "externalAgencyId": "EXT-AGN-005",
+      "agencyCode": "AGN005",
+      "agencyName": "HorizonRisk Partners",
+      "email": "reward@horizonriskpartners.com",
+      "phone": "+1-800-555-0505",
+      "status": "active",
+      "sourceSystem": "PolicyCenter",
+      "metadata": {
+        "region": "Middle East",
+        "tier": "Platinum",
+        "syncVersion": "v1.4"
+      },
+      "createdAt": "2024-05-18T11:30:00Z",
+      "updatedAt": "2024-06-14T07:45:00Z"
+    }
+  ]
+}
