@@ -68,38 +68,5 @@
       "createdAt": "2024-04-10T10:00:00Z",
       "updatedAt": "2024-06-13T09:00:00Z"
     },
-    {
-      "id": 5,
-      "externalAgencyId": "EXT-AGN-005",
-      "agencyCode": "AGN005",
-      "agencyName": "HorizonRisk Partners",
-      "email": "reward@horizonriskpartners.com",
-      "phone": "+1-800-555-0505",
-      "status": "active",
-      "sourceSystem": "PolicyCenter",
-      "metadata": {
-        "region": "Middle East",
-        "tier": "Platinum",
-        "syncVersion": "v1.4"
-      },
-      "createdAt": "2024-05-18T11:30:00Z",
-      "updatedAt": "2024-06-14T07:45:00Z"
-    },{
-      "id": 6,
-      "externalAgencyId": "EXT-AGN-005",
-      "agencyCode": "AGN005",
-      "agencyName": "HorizonRisk Partners",
-      "email": "reward@horizonriskpartners.com",
-      "phone": "+1-800-555-0505",
-      "status": "active",
-      "sourceSystem": "PolicyCenter",
-      "metadata": {
-        "region": "Middle East",
-        "tier": "Platinum",
-        "syncVersion": "v1.4"
-      },
-      "createdAt": "2024-05-18T11:30:00Z",
-      "updatedAt": "2024-06-14T07:45:00Z"
-    }
   ]
 }
